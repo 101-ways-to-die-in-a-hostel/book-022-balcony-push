@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A heated argument between two backpackers on a hostel balcony in Barcelona escalates into a shove that sends one of them tumbling four stories to the street below.",
     "long": ""
   },
   "death_type": "Balcony Push",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "It wasn't murder. It was just one push."
 }
